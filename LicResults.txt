@@ -1,0 +1,1427 @@
+
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID_3da1398_149821205a2__3440
+Entitlement ID: TS7A-E592-0E10-78FC-A127
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2015.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=a28c-acc0-b63e-3c64-5b4e-0203;INTERACTOR=;VIEWER=;FulfillmentID=FID_3da1398_149821205a2__3440;ActivationID=TS7A-E592-0E10-78FC-A127;OEMNAME=;GUEST=true;GBRAND=;CORES=8 \
+	ISSUER="Tableau Software" ISSUED=15-nov-2014 START=14-nov-2014 \
+	TS_OK SIGN="029A F859 96B6 C1F1 2F32 7E24 FD63 CA92 173D 60AA \
+	197C 8438 BB59 A99D BCAC 0AA4 C473 2C6C 8D87 7DBC 1318 F839 \
+	B7F3 25E8 24E3 8C00 B16B B6E9 E586 FEC2"
+INCREMENT TableauServer tableau 2015.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=a28c-acc0-b63e-3c64-5b4e-0203;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID_3da1398_149821205a2__3440;ActivationID=TS7A-E592-0E10-78FC-A127;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE=true \
+	ISSUER="Tableau Software" ISSUED=15-nov-2014 START=14-nov-2014 \
+	TS_OK SIGN="1AE5 86C0 5CC5 00DB 2A45 C122 6581 6AB4 D47E FB62 \
+	01B2 8FBA 14A7 85D1 D461 05D6 6953 C89E 738A D5FA 5758 1F41 \
+	43D3 EF98 2035 54BF AF7D E360 BBAB 4875"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID_3da1398_149821205a2__3437
+Entitlement ID: TSQ7-8B74-8860-CE04-5352
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2015.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;INTERACTOR=;VIEWER=;FulfillmentID=FID_3da1398_149821205a2__3437;ActivationID=TSQ7-8B74-8860-CE04-5352;OEMNAME=;GUEST=true;GBRAND=;CORES=8 \
+	ISSUER="Tableau Software" ISSUED=15-nov-2014 START=14-nov-2014 \
+	TS_OK SIGN="1FDE 446F C6B0 0BFC 59ED 1BC0 D6ED 2885 6B3A 0E7D \
+	EE76 CB13 4436 E16B D439 1414 807A 3391 3732 93B5 5232 4CB0 \
+	C60D FF36 AA9E 9D6E 9573 A6F5 1FCB 6A38"
+INCREMENT TableauServer tableau 2015.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID_3da1398_149821205a2__3437;ActivationID=TSQ7-8B74-8860-CE04-5352;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE=true \
+	ISSUER="Tableau Software" ISSUED=15-nov-2014 START=14-nov-2014 \
+	TS_OK SIGN="1394 C8C0 8C3B 05F4 A00F 04F2 315A 90E3 60B0 F814 \
+	F2C3 6C23 7C81 B679 3F35 1160 4B3C B6AD 419D 8DC9 6880 8EF0 \
+	246D 938A 4BC3 94DA 41CA 6162 A58E E705"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID_3da1398_149821205a2_2bee
+Entitlement ID: TSEB-AAA5-4880-0F31-9349
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2014.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;INTERACTOR=;VIEWER=;FulfillmentID=FID_3da1398_149821205a2_2bee;ActivationID=TSEB-AAA5-4880-0F31-9349;OEMNAME=;GUEST=true;GBRAND=;CORES=16 \
+	ISSUER="Tableau Software" ISSUED=29-nov-2014 START=28-nov-2014 \
+	TS_OK SIGN="1A83 E235 8404 836B D6D3 578E C60A FFB1 B4E6 644A \
+	6713 A990 514B DCD0 8FD0 0412 B015 0D95 4BFF EDF9 F8BA 77DB \
+	C293 14D1 F6B8 9A99 BF3E 333E 570F B8CD"
+INCREMENT TableauServer tableau 2014.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID_3da1398_149821205a2_2bee;ActivationID=TSEB-AAA5-4880-0F31-9349;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE=true \
+	ISSUER="Tableau Software" ISSUED=29-nov-2014 START=28-nov-2014 \
+	TS_OK SIGN="18AD B11B F800 BC53 3E0F 41A7 A137 3716 25C2 9F16 \
+	BCF6 ECC3 9257 9772 2F9F 0D30 B991 654A 81A8 DCF5 6C7D 38AD \
+	3377 8131 A7E5 E297 EBAF 163C D8C5 C683"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID_3da1398_14b085f242f_1cfe
+Entitlement ID: TSBI-B668-D8F0-98B3-E9C2
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2015.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=606e-ccc9-99d9-b50e-e4a6-dc57;INTERACTOR=;VIEWER=;FulfillmentID=FID_3da1398_14b085f242f_1cfe;ActivationID=TSBI-B668-D8F0-98B3-E9C2;OEMNAME=;GUEST=true;GBRAND=;CORES=8 \
+	ISSUER="Tableau Software" ISSUED=7-feb-2015 START=6-feb-2015 \
+	TS_OK SIGN="0C64 B14C CC90 842C 855D D135 5F93 8F52 1CAF ED58 \
+	E0CA A865 1D2A D7B7 0909 0475 E996 8A02 EC67 75A3 F9F7 0AC6 \
+	B901 60C2 5AA7 5939 164F EA9D 63EF AC0D"
+INCREMENT TableauServer tableau 2015.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=606e-ccc9-99d9-b50e-e4a6-dc57;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID_3da1398_14b085f242f_1cfe;ActivationID=TSBI-B668-D8F0-98B3-E9C2;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE=true \
+	ISSUER="Tableau Software" ISSUED=7-feb-2015 START=6-feb-2015 \
+	TS_OK SIGN="0D1E 0A8D 760F 5761 B90F F4F9 1D46 54B9 9A3B 3300 \
+	4176 ED36 F009 D6A0 4305 1A32 940A 7510 645A FDCE E4D7 0FF1 \
+	C45D 5294 A958 E78B 54C9 F279 057B 2DA0"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID_3da1398_15098cefaf6_6760
+Entitlement ID: TS57-C75A-4440-602C-CD17
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2016.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=606e-ccc9-99d9-b50e-e4a6-dc57;INTERACTOR=;VIEWER=;FulfillmentID=FID_3da1398_15098cefaf6_6760;ActivationID=TS57-C75A-4440-602C-CD17;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE=false \
+	ISSUER="Tableau Software" ISSUED=12-nov-2015 START=11-nov-2015 \
+	TS_OK SIGN="0159 F56C 9694 D8E2 5B0C 3F4C 3386 44AA 4B1D D37D \
+	057D 275B 7E9C DF91 5047 0782 5D60 EDB7 B5E5 05A6 5E80 4717 \
+	04B3 6C60 DBD7 A9C3 0CBF B9A5 2640 97AA"
+INCREMENT TableauServer tableau 2016.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=606e-ccc9-99d9-b50e-e4a6-dc57;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID_3da1398_15098cefaf6_6760;ActivationID=TS57-C75A-4440-602C-CD17;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=12-nov-2015 START=11-nov-2015 \
+	TS_OK SIGN="149B 7DB0 2704 ED5E 02B1 9B5E 3596 43CF 3BFF 7D2C \
+	37C1 487C 7EE9 7692 41F4 0653 ABD5 D86F CB61 9C68 2CCD 26D6 \
+	03BC C8AB F7CD AEE9 AE88 162F 0621 42A3"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID_3da1398_15098cefaf6_6761
+Entitlement ID: TSOL-353E-2210-6364-22CA
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2016.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;INTERACTOR=;VIEWER=;FulfillmentID=FID_3da1398_15098cefaf6_6761;ActivationID=TSOL-353E-2210-6364-22CA;OEMNAME=;GUEST=true;GBRAND=;CORES=16;SINGLE_MACHINE=false \
+	ISSUER="Tableau Software" ISSUED=12-nov-2015 START=11-nov-2015 \
+	TS_OK SIGN="10D4 E604 44A7 9D80 8C30 75F6 FCE6 EB40 0E6D 99A4 \
+	F43E 3B68 1E57 C80E CD08 1545 93B8 3DED 8971 EA81 06C5 48F9 \
+	5269 0995 44CC D211 FE1B FE34 F841 F0A2"
+INCREMENT TableauServer tableau 2016.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID_3da1398_15098cefaf6_6761;ActivationID=TSOL-353E-2210-6364-22CA;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=12-nov-2015 START=11-nov-2015 \
+	TS_OK SIGN="162C 521B 66E0 79F2 DD10 5509 CFF2 C69B 5CBA 1DB2 \
+	E545 649D 288F 7F96 5163 0423 76D4 8B05 DA08 574B 0AB3 06D8 \
+	80B1 69CD 839B 468C 2F77 3C71 94BB A687"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID_3da1398_15098cefaf6_6762
+Entitlement ID: TSWS-965B-0380-9528-4421
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2015.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;INTERACTOR=;VIEWER=;FulfillmentID=FID_3da1398_15098cefaf6_6762;ActivationID=TSWS-965B-0380-9528-4421;OEMNAME=;GUEST=true;GBRAND=;CORES=16;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=12-nov-2015 START=11-nov-2015 \
+	TS_OK SIGN="0AA2 C198 A22E F015 5B4B C844 579C 47C9 9922 97A5 \
+	85BC E73C 1028 6BE9 67F7 0438 46FE 231C 8763 56DC 93BE 5C8B \
+	CD82 0C7A C508 AA47 8A0E 6E83 4E43 53E3"
+INCREMENT TableauServer tableau 2015.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID_3da1398_15098cefaf6_6762;ActivationID=TSWS-965B-0380-9528-4421;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=12-nov-2015 START=11-nov-2015 \
+	TS_OK SIGN="024E 2220 5089 6FBD 511F 9872 E636 1E11 2D9F 1B79 \
+	1319 9636 D8AF 7542 D8B4 1428 29D6 5237 D289 4F43 7DBD E262 \
+	2D56 E375 86A7 5D0F 0FB6 524B 97EF 1FE7"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID_3da1398_15098cefaf6_6763
+Entitlement ID: TSDF-B729-2560-651A-C5D9
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2015.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;INTERACTOR=;VIEWER=;FulfillmentID=FID_3da1398_15098cefaf6_6763;ActivationID=TSDF-B729-2560-651A-C5D9;OEMNAME=;GUEST=true;GBRAND=;CORES=16;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=12-nov-2015 START=11-nov-2015 \
+	TS_OK SIGN="0334 7838 3E53 94D7 E380 07B2 94E9 C6FD 3B4B 8C61 \
+	DA82 5C21 B202 0541 01DA 16E1 5988 464F D637 42B1 DAA4 820F \
+	0567 36E1 C964 AD61 81FC 838B 7A05 F24E"
+INCREMENT TableauServer tableau 2015.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID_3da1398_15098cefaf6_6763;ActivationID=TSDF-B729-2560-651A-C5D9;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=12-nov-2015 START=11-nov-2015 \
+	TS_OK SIGN="17DB 30A9 F173 D945 F2BC 1D9C 60C3 5F46 08D6 F7B9 \
+	AA9C 8EE2 CE28 1B48 9F22 00A8 B4F3 736A 8FD5 4847 A0AC A502 \
+	9FD3 6CE6 A66F 1B6B D131 E29E 7D5B D497"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID_3da1398_15098cefaf6_6764
+Entitlement ID: TS5B-4340-9CD0-BC13-9AC6
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2014.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;INTERACTOR=;VIEWER=;FulfillmentID=FID_3da1398_15098cefaf6_6764;ActivationID=TS5B-4340-9CD0-BC13-9AC6;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=12-nov-2015 START=13-dec-2013 \
+	TS_OK SIGN="1BC2 1897 6FC5 802C 9086 55B2 11D3 D3B3 CC0A 21AB \
+	AF96 91FA 83F6 F2D0 3A0A 0700 1A39 D5F2 ACC7 E553 3CF5 856E \
+	04D2 E601 7DA9 7711 FC8A 52A9 1AAA 3213"
+INCREMENT TableauServer tableau 2014.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID_3da1398_15098cefaf6_6764;ActivationID=TS5B-4340-9CD0-BC13-9AC6;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=12-nov-2015 START=13-dec-2013 \
+	TS_OK SIGN="1793 81D8 E1A6 7499 4086 F59A F109 D83B 8626 16E7 \
+	D6F6 89F4 6B93 7D75 95BB 139E 1CE9 1172 2AEF 808F C14E 093B \
+	2590 57B6 D284 65F1 B07D 98D1 7C4E 37A4"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID_3da1398_15098cefaf6_6766
+Entitlement ID: TSCS-8FAE-8760-B9CA-83E2
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2016.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;INTERACTOR=;VIEWER=;FulfillmentID=FID_3da1398_15098cefaf6_6766;ActivationID=TSCS-8FAE-8760-B9CA-83E2;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE=false \
+	ISSUER="Tableau Software" ISSUED=12-nov-2015 START=11-nov-2015 \
+	TS_OK SIGN="1E08 4ACC D7B8 C16B 6E16 9CFD C68A 366C 30EF A9B5 \
+	D645 5264 FA97 F6E2 F422 0F32 32E2 8C84 B0E3 E44F 5BD4 7AFA \
+	F049 C940 90C1 EDD0 B193 EDDC DCB5 34E4"
+INCREMENT TableauServer tableau 2016.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID_3da1398_15098cefaf6_6766;ActivationID=TSCS-8FAE-8760-B9CA-83E2;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=12-nov-2015 START=11-nov-2015 \
+	TS_OK SIGN="0F70 F447 7EA3 DB09 EEE2 8EB1 5F12 9B0D 77E8 7BBA \
+	5F50 7EBF E471 C54F 6595 0F90 8E13 A10B 3B39 A2FE D3D1 7B12 \
+	F635 0BBE 3696 6518 81BF 02C0 ACDA 26FB"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID_3da1398_15098cefaf6_6767
+Entitlement ID: TSKO-42B6-8A80-F9F9-FC1E
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2012.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;INTERACTOR=;VIEWER=;FulfillmentID=FID_3da1398_15098cefaf6_6767;ActivationID=TSKO-42B6-8A80-F9F9-FC1E;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=12-nov-2015 NOTICE="Exxon \
+	Core License" START=27-feb-2012 TS_OK SIGN="18BF 8C4A 9B09 \
+	253C 4CFC 7074 C0D8 6749 E24B 485C 3965 CB78 A8CC 7CD7 0199 \
+	0B73 230E 1D12 B067 8CDD 0B14 B902 3A9F 975C 2FB0 FBB5 2D8C \
+	28F9 2439 BA9D"
+INCREMENT TableauServer tableau 2012.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;EDITION=Standard;CAP=REG:SHORT,WARN:14;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID_3da1398_15098cefaf6_6767;ActivationID=TSKO-42B6-8A80-F9F9-FC1E;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=12-nov-2015 NOTICE="Exxon \
+	Core License" START=27-feb-2012 TS_OK SIGN="0A53 F0F5 3CCA \
+	DBA5 834B A3A2 4CB8 DA67 2C17 B371 ED9D C171 BB34 1326 516F \
+	1D93 8D7B B19E 04E4 DBE7 31CD 2F3D B9AC 4AE6 BB30 4447 3E8A \
+	72BA 5DCD 3F9D"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID_3da1398_15098cefaf6_6768
+Entitlement ID: TSBN-4E51-4BA0-F43D-B076
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2016.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=a28c-acc0-b63e-3c64-5b4e-0203;INTERACTOR=;VIEWER=;FulfillmentID=FID_3da1398_15098cefaf6_6768;ActivationID=TSBN-4E51-4BA0-F43D-B076;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE=false \
+	ISSUER="Tableau Software" ISSUED=12-nov-2015 START=11-nov-2015 \
+	TS_OK SIGN="082D 9EBA CCFE 7F63 325C 46E6 3CF9 2F40 CF3B 3516 \
+	7380 8DED 36A1 1537 50B2 12C8 5034 7765 17A7 79DE E0DD 550F \
+	5707 E4BE EB74 5B35 1689 C962 AE19 8954"
+INCREMENT TableauServer tableau 2016.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=a28c-acc0-b63e-3c64-5b4e-0203;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID_3da1398_15098cefaf6_6768;ActivationID=TSBN-4E51-4BA0-F43D-B076;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=12-nov-2015 START=11-nov-2015 \
+	TS_OK SIGN="1070 483F 2507 8198 8B65 89F1 C81E AC43 0EB2 6D80 \
+	49F1 57AD 485F 956F A4A5 019C ADA7 D129 F283 B3AA AC6F AE65 \
+	BF30 DEC3 71F0 21F9 EE8B 698C AE61 AC0A"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID_3da1398_15098cefaf6_6769
+Entitlement ID: TSM0-D94C-C190-9270-F059
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2014.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=a28c-acc0-b63e-3c64-5b4e-0203;INTERACTOR=;VIEWER=;FulfillmentID=FID_3da1398_15098cefaf6_6769;ActivationID=TSM0-D94C-C190-9270-F059;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=12-nov-2015 START=24-mar-2014 \
+	TS_OK SIGN="1C69 84C0 7BD1 8411 FF0E 80B4 9563 1BD5 2065 D0A1 \
+	F82A D028 766F BE6A 4C21 0CEB B0F7 CA68 0827 0A77 9423 AAF7 \
+	AE8D 929B EF99 33B9 BBD6 CCFC 1E2A CD96"
+INCREMENT TableauServer tableau 2014.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=a28c-acc0-b63e-3c64-5b4e-0203;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID_3da1398_15098cefaf6_6769;ActivationID=TSM0-D94C-C190-9270-F059;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=12-nov-2015 START=24-mar-2014 \
+	TS_OK SIGN="03B2 1D53 FCFE DA52 044B C9E3 DF66 8D68 41EF 240A \
+	BF52 598E 4EDB F378 E0C5 0BE4 C325 9598 043B 2FF0 7ACA 9F0A \
+	80E7 DC8E 875F D68E 8296 4790 8DE1 C0DB"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__5a23aad8_157e466d5fb_39aa
+Entitlement ID: TSS7-0BA7-E870-D473-A540
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=846c-9c43-3ad6-8603-aa70-fadb;INTERACTOR=;VIEWER=;FulfillmentID=FID__5a23aad8_157e466d5fb_39aa;ActivationID=TSS7-0BA7-E870-D473-A540;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=5-nov-2016 START=2-nov-2016 \
+	TS_OK SIGN="01E4 07A3 2895 2BC2 F4A4 2C34 99EF 5A0E 24C4 0E5A \
+	5718 6BA9 3558 C3D7 C5D4 02DC 9579 1CCE 0E2C E24D F7A7 49C8 \
+	14B0 B810 67B3 9721 2737 0246 761C 52F5"
+INCREMENT TableauServer tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=846c-9c43-3ad6-8603-aa70-fadb;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__5a23aad8_157e466d5fb_39aa;ActivationID=TSS7-0BA7-E870-D473-A540;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=5-nov-2016 START=2-nov-2016 \
+	TS_OK SIGN="0A48 3F77 4CE5 62F7 F0A5 24FF D0F8 4050 80D4 747B \
+	37C3 191C D53A FF52 87E7 0B52 C849 5B0B 1D18 3C9B B3D0 708D \
+	60A1 9F7A A669 B232 7AE4 5F1F C717 B064"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__5a23aad8_157e466d5fb_3a0b
+Entitlement ID: TSG8-5DC6-C5E0-3CA3-A94D
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2016.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=9f00-08be-24aa-8e7d-c88e-c204;INTERACTOR=;VIEWER=;FulfillmentID=FID__5a23aad8_157e466d5fb_3a0b;ActivationID=TSG8-5DC6-C5E0-3CA3-A94D;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE=false \
+	ISSUER="Tableau Software" ISSUED=5-nov-2016 START=12-nov-2015 \
+	TS_OK SIGN="1828 18BC B286 AF0F A912 2A53 FD70 A5E2 44A8 3C7C \
+	A76D F404 3464 669A 5F4B 0C4A B283 C2BD 7508 E9C3 BE32 4B06 \
+	1D16 6C2C E478 6DD4 6188 DA04 4637 5D53"
+INCREMENT TableauServer tableau 2016.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=9f00-08be-24aa-8e7d-c88e-c204;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__5a23aad8_157e466d5fb_3a0b;ActivationID=TSG8-5DC6-C5E0-3CA3-A94D;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=5-nov-2016 START=12-nov-2015 \
+	TS_OK SIGN="004C 2B53 2E77 0835 3AC1 B056 25FD B815 1EF6 390B \
+	3550 EA8A 65A4 87F5 688B 1C1E B9CA 9B42 7317 2EF3 70BB EBB4 \
+	ABA5 5D7D 26CD E352 B977 5264 456D 58A2"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__5a23aad8_158d24c6dd6_3b62
+Entitlement ID: TS1Y-C018-B1D0-017E-8BC7
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=9f00-08be-24aa-8e7d-c88e-c204;INTERACTOR=;VIEWER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b62;ActivationID=TS1Y-C018-B1D0-017E-8BC7;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=2-dec-2016 \
+	TS_OK SIGN="165B 3FB0 B51E D38D 2406 D097 594F 309F D7E0 17DA \
+	6700 758A AEED CA81 6182 107A 9D5F EAA5 90F9 393C F6BB 4F35 \
+	BAB4 01E8 391B D6E5 0087 771A EA26 B019"
+INCREMENT TableauServer tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=9f00-08be-24aa-8e7d-c88e-c204;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b62;ActivationID=TS1Y-C018-B1D0-017E-8BC7;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=2-dec-2016 \
+	TS_OK SIGN="03B5 BAAA 8E31 B811 0CE6 3D0A 9EC2 8156 70DB D004 \
+	3B47 A886 4592 A5F2 3BE6 0BF8 D10D AD21 254B 3A46 45F3 309A \
+	0FD1 4087 FBE8 0087 059D 2353 B7FC 6C7F"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__5a23aad8_158d24c6dd6_3b63
+Entitlement ID: TSZO-410B-5C50-A025-8CE6
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;INTERACTOR=;VIEWER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b63;ActivationID=TSZO-410B-5C50-A025-8CE6;OEMNAME=;GUEST=true;GBRAND=;CORES=16;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=2-dec-2016 \
+	TS_OK SIGN="0BD2 EFF9 3CC9 8A3D EBA5 9EFD 11C1 AAEC 5AB5 52E2 \
+	4EED 1FD6 54AC 1F32 07AA 0E03 78CD 73F9 0039 9C8B 0989 5B7D \
+	B825 509E 63D1 2C90 1539 3538 049D CF4E"
+INCREMENT TableauServer tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b63;ActivationID=TSZO-410B-5C50-A025-8CE6;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=2-dec-2016 \
+	TS_OK SIGN="0BB1 7F86 560A E2DA 6960 6220 CBB6 E995 ACB8 326C \
+	853F 7885 253B 1B90 BD4B 1278 9A28 F131 02AE 098D CAF6 C9D2 \
+	810B BEDD A131 8D91 E2DA 7EFD BDD4 01BC"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__5a23aad8_158d24c6dd6_3b65
+Entitlement ID: TSDD-C02B-C4A0-043E-16AE
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;INTERACTOR=;VIEWER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b65;ActivationID=TSDD-C02B-C4A0-043E-16AE;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=2-dec-2016 \
+	TS_OK SIGN="1EF5 B056 E3BF 8844 7534 45A1 D3D7 9E91 7BD1 2F4C \
+	DE79 5E2C 88A8 8FAD DEC2 02AD 1421 9570 58ED BD50 1037 73D3 \
+	047C 5E84 7EBD BD6C FFC8 7C70 3F38 9129"
+INCREMENT TableauServer tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b65;ActivationID=TSDD-C02B-C4A0-043E-16AE;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=2-dec-2016 \
+	TS_OK SIGN="0304 693D 0BDE 681F A991 3302 436E C688 1FE8 C829 \
+	5F66 D548 9EED 2CB2 B453 031F 6BF3 44BA 99E5 AADD F923 A07E \
+	6403 FB99 B846 8D80 B2BA 8CDA BAA8 E66E"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__5a23aad8_158d24c6dd6_3b67
+Entitlement ID: TS2C-C04F-7940-59FE-19E1
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=606e-ccc9-99d9-b50e-e4a6-dc57;INTERACTOR=;VIEWER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b67;ActivationID=TS2C-C04F-7940-59FE-19E1;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=5-dec-2016 \
+	TS_OK SIGN="1403 8DFF 24FA B181 0F93 808D 132B 36AC 4C89 4733 \
+	7A34 17F0 EF71 EF57 EA17 1491 0E39 D31C 15AA 72A5 E946 771F \
+	3901 4FF8 3D4E 5C1A F4CC FEAF 9761 2AF5"
+INCREMENT TableauServer tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=606e-ccc9-99d9-b50e-e4a6-dc57;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b67;ActivationID=TS2C-C04F-7940-59FE-19E1;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=5-dec-2016 \
+	TS_OK SIGN="19DD A701 266A 8C4D AA18 ABE9 C64B 8266 3026 BA4E \
+	748D BFE9 875F 1892 3278 0FFD 1D8C A65A 94F4 61CB 703E 2D48 \
+	2725 D5B9 C228 280A A7D1 3AA7 671D 1BEE"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__5a23aad8_158d24c6dd6_3b68
+Entitlement ID: TS8M-C03C-6670-1CB9-09BD
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=a28c-acc0-b63e-3c64-5b4e-0203;INTERACTOR=;VIEWER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b68;ActivationID=TS8M-C03C-6670-1CB9-09BD;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=5-dec-2016 \
+	TS_OK SIGN="0609 3F6E 1974 9129 A373 E7E0 5D79 8936 3F17 4C1B \
+	B558 848A 1785 29EC 35EE 1170 5113 30B9 2027 3189 72AD 14B3 \
+	9677 9CC0 8265 1C0C 28F7 F0D1 E7E7 2E0F"
+INCREMENT TableauServer tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=a28c-acc0-b63e-3c64-5b4e-0203;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b68;ActivationID=TS8M-C03C-6670-1CB9-09BD;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=5-dec-2016 \
+	TS_OK SIGN="0B7D 336C F2B5 CAE0 A909 09D0 F529 DB74 D0AB 9F84 \
+	96D8 88BD 2073 E31C 6AC3 0301 460F EC46 45ED 50AA ECE5 49C3 \
+	DC64 C32A AC00 5898 B801 F6BA C4A1 277F"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__5a23aad8_158d24c6dd6_3b69
+Entitlement ID: TSZO-410B-5C50-A025-8CE6
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;INTERACTOR=;VIEWER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b69;ActivationID=TSZO-410B-5C50-A025-8CE6;OEMNAME=;GUEST=true;GBRAND=;CORES=16;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=2-dec-2016 \
+	TS_OK SIGN="1971 3872 6AB8 76BF A7BB AC5D 87F5 BFF3 6CD8 E821 \
+	C65C E467 88DA D19D 22EA 051A D950 5567 1B68 F8A6 FAEC 514A \
+	15F1 FD7A C6EB 0BBF 944B 5FA4 DA65 24FB"
+INCREMENT TableauServer tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b69;ActivationID=TSZO-410B-5C50-A025-8CE6;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=2-dec-2016 \
+	TS_OK SIGN="0F1A 55CB 472A C741 3FC6 E8A2 0AAE 2523 8A3E 88FE \
+	A722 A48F EEB0 6255 373E 0F5B B33C 56DC 9FC8 7497 920B F37D \
+	DCD8 0665 03C3 7CA5 C064 4EB4 419D A635"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__5a23aad8_158d24c6dd6_3b6a
+Entitlement ID: TSZO-410B-5C50-A025-8CE6
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;INTERACTOR=;VIEWER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b6a;ActivationID=TSZO-410B-5C50-A025-8CE6;OEMNAME=;GUEST=true;GBRAND=;CORES=16;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=2-dec-2016 \
+	TS_OK SIGN="02D9 DACF 0DE7 848B 3471 4BDF D3E5 17B3 E69E B83F \
+	99C2 8434 7686 0409 7527 19D4 16F0 22B7 9E97 96AD 8467 D4DF \
+	268E 3099 05B3 5FC0 DC3D 319D 67ED FFBF"
+INCREMENT TableauServer tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b6a;ActivationID=TSZO-410B-5C50-A025-8CE6;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=2-dec-2016 \
+	TS_OK SIGN="076F 6208 34CC 47D7 EB5A 1078 0415 9656 8D16 AD1C \
+	F568 FFCF CFB0 4C0A B8B7 0D22 45FC 9EE4 597A 3D41 A618 E247 \
+	E7FD 89B5 B3A9 3805 1AC9 5878 B915 34CD"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__5a23aad8_158d24c6dd6_3b6b
+Entitlement ID: TS8M-C03C-6670-1CB9-09BD
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=a28c-acc0-b63e-3c64-5b4e-0203;INTERACTOR=;VIEWER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b6b;ActivationID=TS8M-C03C-6670-1CB9-09BD;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=5-dec-2016 \
+	TS_OK SIGN="0808 A8D6 D969 138B 5AC2 2F50 1866 059F 67CF 5B05 \
+	03E3 2C4D 2099 0813 9E6B 1C44 932A 4312 2D15 437A C803 6107 \
+	55E8 1C2D 9808 4E2E 52B7 27E9 7BF0 3022"
+INCREMENT TableauServer tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=a28c-acc0-b63e-3c64-5b4e-0203;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b6b;ActivationID=TS8M-C03C-6670-1CB9-09BD;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=5-dec-2016 \
+	TS_OK SIGN="1FB3 DCA8 9C3D E372 FE52 A8E8 4844 63C7 373E 6F5D \
+	E092 DCB6 2DE3 A9CA 65DE 1E7F A8DB CBBD 71C8 4025 A9B1 1E83 \
+	D815 42B6 EA23 BEC2 766E B615 7BF1 4E2C"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__5a23aad8_158d24c6dd6_3b6c
+Entitlement ID: TSDD-C02B-C4A0-043E-16AE
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;INTERACTOR=;VIEWER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b6c;ActivationID=TSDD-C02B-C4A0-043E-16AE;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=2-dec-2016 \
+	TS_OK SIGN="1ABB 522A B717 21C0 A2D0 A493 9DA2 4BC3 8924 9768 \
+	9A32 62EB 537F 4C63 4FD2 085A C25A 9F1C DC95 46C6 FA19 5781 \
+	6204 9B52 8D26 FF60 405A 6006 FB7A C22C"
+INCREMENT TableauServer tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b6c;ActivationID=TSDD-C02B-C4A0-043E-16AE;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=2-dec-2016 \
+	TS_OK SIGN="1669 2DE9 09A8 5235 C515 86E2 0F6F D1A2 5481 1269 \
+	B713 FFF0 6520 2F03 A174 1A91 01AA 644F 93C1 8C0D DB12 2F03 \
+	D364 F83C EF64 3DD8 F2CC F65A 8008 9CBE"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__5a23aad8_158d24c6dd6_3b6d
+Entitlement ID: TSDD-C02B-C4A0-043E-16AE
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;INTERACTOR=;VIEWER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b6d;ActivationID=TSDD-C02B-C4A0-043E-16AE;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=2-dec-2016 \
+	TS_OK SIGN="0FAD 246B 4344 E904 4014 8E51 CAE8 526C 477B 3E03 \
+	48CD 6274 490F 4933 C783 0EC7 8E56 3AC8 0533 84C4 ED2C 3C90 \
+	ECED 2D3F 3515 4D03 DDBB D3E9 378F 0A56"
+INCREMENT TableauServer tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b6d;ActivationID=TSDD-C02B-C4A0-043E-16AE;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=2-dec-2016 \
+	TS_OK SIGN="157F 5100 0675 2A92 2588 3C91 54CC 071D D404 49EB \
+	BAD9 A24E 4B60 E3F3 ECB9 1953 F19F 18D6 A62C AB14 C1D0 DEB7 \
+	52F5 AF8B 7140 49F5 CF31 8007 E871 4EF4"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__5a23aad8_158d24c6dd6_3b6e
+Entitlement ID: TS2C-C04F-7940-59FE-19E1
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=606e-ccc9-99d9-b50e-e4a6-dc57;INTERACTOR=;VIEWER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b6e;ActivationID=TS2C-C04F-7940-59FE-19E1;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=5-dec-2016 \
+	TS_OK SIGN="1AC8 7D5D 2430 7E19 3FB5 A3A2 B347 8E08 8667 603E \
+	0E48 DC56 0AAE 39EE 7DF8 01EF A534 8936 0642 1A1E D27B B103 \
+	3777 7722 C6E6 C82B 845A A003 66BE 0AEC"
+INCREMENT TableauServer tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=606e-ccc9-99d9-b50e-e4a6-dc57;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b6e;ActivationID=TS2C-C04F-7940-59FE-19E1;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=5-dec-2016 \
+	TS_OK SIGN="11BC 7F7B 6A22 74BA D28C 2399 E813 EB03 3A32 BFC4 \
+	B49C 4950 BDE5 89D3 7449 0289 D512 EEC7 EAC0 DFDD D386 3F42 \
+	2040 CF65 7AF8 897A 4C23 A513 EA45 4567"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__5a23aad8_158d24c6dd6_3b6f
+Entitlement ID: TSZO-410B-5C50-A025-8CE6
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;INTERACTOR=;VIEWER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b6f;ActivationID=TSZO-410B-5C50-A025-8CE6;OEMNAME=;GUEST=true;GBRAND=;CORES=16;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=2-dec-2016 \
+	TS_OK SIGN="1DD5 AAD5 F711 3FB3 2783 843B E9AF C4A1 95C7 2B71 \
+	DBA7 AD96 490E 5788 13C2 01C7 3BC7 2C5A 94A7 9DC7 C1D3 DDAD \
+	FC45 AADD 90E8 B8C5 6F24 D101 B3FF 62D3"
+INCREMENT TableauServer tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b6f;ActivationID=TSZO-410B-5C50-A025-8CE6;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=2-dec-2016 \
+	TS_OK SIGN="0780 458E 4EFC 2A67 4F8E 4CB1 5E78 CC9E F20B CF3F \
+	6607 7826 1B11 3505 4865 0979 805E 99A6 4FC5 26D1 FBBA C2AB \
+	7346 301F FDB9 5C6D 2837 520D F810 3AF7"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__5a23aad8_158d24c6dd6_3b70
+Entitlement ID: TS8M-C03C-6670-1CB9-09BD
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=a28c-acc0-b63e-3c64-5b4e-0203;INTERACTOR=;VIEWER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b70;ActivationID=TS8M-C03C-6670-1CB9-09BD;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=5-dec-2016 \
+	TS_OK SIGN="016B B6F1 7D1F 1A59 D2ED 3473 95D7 58C1 DF3C A259 \
+	A691 F27D CD72 2243 7A87 15D4 A023 935C 6CF5 2074 8E2A 2C93 \
+	51DC 0044 D6C2 45FB 52B3 C1E1 9BF2 89F4"
+INCREMENT TableauServer tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=a28c-acc0-b63e-3c64-5b4e-0203;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b70;ActivationID=TS8M-C03C-6670-1CB9-09BD;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=5-dec-2016 \
+	TS_OK SIGN="0AD7 CA97 8601 23DB E8E0 11A1 5082 71E8 44D1 B06D \
+	B290 3B2D A33D 45DC 4E56 0524 E86D 1AC3 25B9 D5A9 AB70 AB45 \
+	2F26 B923 AB46 3116 44F4 BC1E A21D B07E"
+--------------------------------------------------------------------
+Trust Flags: **BROKEN** HOST
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__5a23aad8_158d24c6dd6_3b71
+Entitlement ID: TSDD-C02B-C4A0-043E-16AE
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;INTERACTOR=;VIEWER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b71;ActivationID=TSDD-C02B-C4A0-043E-16AE;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=2-dec-2016 \
+	TS_OK SIGN="0F0B F4CA AACB 8F0E EA24 CC11 9E0E DA79 D5DD EC6F \
+	9026 1F20 7871 5714 4B6B 111B 066B 08F4 7858 B361 68E3 80FA \
+	BCF5 590A 7106 38F4 AC05 1AAF 676B 5A74"
+INCREMENT TableauServer tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__5a23aad8_158d24c6dd6_3b71;ActivationID=TSDD-C02B-C4A0-043E-16AE;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=14-dec-2016 START=2-dec-2016 \
+	TS_OK SIGN="0EBD 056E B5E5 07C5 F6C8 9707 5CC6 D8E3 DB69 7E82 \
+	4D9D 7AC1 94AF A0A4 77CF 1A74 C5AC 5CAB F208 6758 583F 534C \
+	0F6F 36C8 21EA 7FFF 2B7D 09A9 F7B9 5CB4"
+--------------------------------------------------------------------
+Trust Flags: FULLY TRUSTED
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__58a933c_15ca1491b88__1236
+Entitlement ID: TSM0-D94C-C190-9270-F059
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2014.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=a28c-acc0-b63e-3c64-5b4e-0203;INTERACTOR=;VIEWER=;FulfillmentID=FID__58a933c_15ca1491b88__1236;ActivationID=TSM0-D94C-C190-9270-F059;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=24-mar-2014 \
+	TS_OK SIGN="10AB 6B0F D94B 1E04 84BF E73B 4D41 CC13 88A3 0E7A \
+	B97B 0DB6 0527 95CF 1AAA 0A4F 80E7 9B63 5373 A348 DCB3 0529 \
+	43E2 0B55 8F5A 0924 F9BF CAB2 1751 EEEB"
+INCREMENT TableauServer tableau 2014.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=a28c-acc0-b63e-3c64-5b4e-0203;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__58a933c_15ca1491b88__1236;ActivationID=TSM0-D94C-C190-9270-F059;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=24-mar-2014 \
+	TS_OK SIGN="1526 E3D1 2669 8F14 FC69 F5FA 8C9D F23E 1197 E76D \
+	AA03 C17F 718C 8020 A756 170B AB0C 83A3 5CF8 05BD 03B7 D9F0 \
+	19B3 32BB D678 2AD1 5EBC A088 EAED 7F41"
+--------------------------------------------------------------------
+Trust Flags: FULLY TRUSTED
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__58a933c_15ca1491b88__1234
+Entitlement ID: TSBN-4E51-4BA0-F43D-B076
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2016.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=a28c-acc0-b63e-3c64-5b4e-0203;INTERACTOR=;VIEWER=;FulfillmentID=FID__58a933c_15ca1491b88__1234;ActivationID=TSBN-4E51-4BA0-F43D-B076;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE=false \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=12-nov-2015 \
+	TS_OK SIGN="0443 9BC6 6F2F E485 F28B 70BF 48D3 84D2 7CD0 F59D \
+	2365 0233 D201 15FB 5B0B 035B 6CD7 690B AF0B 0D9A D902 D897 \
+	A161 EA8D F0FA B579 D0FF 8DB1 7DF8 6C57"
+INCREMENT TableauServer tableau 2016.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=a28c-acc0-b63e-3c64-5b4e-0203;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__58a933c_15ca1491b88__1234;ActivationID=TSBN-4E51-4BA0-F43D-B076;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=12-nov-2015 \
+	TS_OK SIGN="09F3 C7AC 617C 42A8 DD1B A0E1 F0C9 2D16 30F1 4DD3 \
+	CF96 8FBC 8E9D 9F60 8905 167C 16BE 97F7 395C 04B6 C59E 77A7 \
+	6AD4 01B3 0F62 4A6F 6148 941F DCDB 7E26"
+--------------------------------------------------------------------
+Trust Flags: FULLY TRUSTED
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__58a933c_15ca1491b88__1233
+Entitlement ID: TS7A-E592-0E10-78FC-A127
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2015.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=a28c-acc0-b63e-3c64-5b4e-0203;INTERACTOR=;VIEWER=;FulfillmentID=FID__58a933c_15ca1491b88__1233;ActivationID=TS7A-E592-0E10-78FC-A127;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=15-nov-2014 \
+	TS_OK SIGN="1E05 37FD 9F64 D85E 4A3F C215 C56E B83B 8D62 4E71 \
+	C525 B59E E4FB 2D9E E337 07D1 C81F 121A 4510 4954 8029 ADE3 \
+	3B15 07CB 0C73 9356 3E40 932E 2133 350F"
+INCREMENT TableauServer tableau 2015.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=a28c-acc0-b63e-3c64-5b4e-0203;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__58a933c_15ca1491b88__1233;ActivationID=TS7A-E592-0E10-78FC-A127;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=15-nov-2014 \
+	TS_OK SIGN="0680 F6A6 4552 4ECD 2EBE E3C0 E86D BCC9 1B5D 23D1 \
+	3F16 C455 7E72 5294 E27E 1B37 E4AF BF6D 168F 6DC9 C657 A9A8 \
+	3E72 AA27 6399 6F39 4F74 B1C6 9AF2 9DDD"
+--------------------------------------------------------------------
+Trust Flags: FULLY TRUSTED
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__58a933c_15ca1491b88__1232
+Entitlement ID: TS8M-C03C-6670-1CB9-09BD
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=a28c-acc0-b63e-3c64-5b4e-0203;INTERACTOR=;VIEWER=;FulfillmentID=FID__58a933c_15ca1491b88__1232;ActivationID=TS8M-C03C-6670-1CB9-09BD;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=5-dec-2016 \
+	TS_OK SIGN="17FD 3317 0105 EFA1 3558 0075 CD6C B2D0 0436 1B33 \
+	CA29 3F9D 21E1 0D8B 01CD 15FD 9018 1752 6322 947D 0707 3B37 \
+	128E A4A7 67E2 5EA5 F2F3 6E9F E13C 65C3"
+INCREMENT TableauServer tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=a28c-acc0-b63e-3c64-5b4e-0203;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__58a933c_15ca1491b88__1232;ActivationID=TS8M-C03C-6670-1CB9-09BD;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=5-dec-2016 \
+	TS_OK SIGN="0B5F D3FB E16C 1B0B FAA1 CD91 671A D53F E821 EB97 \
+	42F5 90AF 4982 CB08 5D9C 12DC C8C7 EAEC 114C 55D6 A7F8 FB78 \
+	CB4E 5B78 C788 F276 A4B3 FD4E 2E47 C6B0"
+--------------------------------------------------------------------
+Trust Flags: FULLY TRUSTED
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__58a933c_15ca1491b88__1224
+Entitlement ID: TSEB-AAA5-4880-0F31-9349
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2014.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;INTERACTOR=;VIEWER=;FulfillmentID=FID__58a933c_15ca1491b88__1224;ActivationID=TSEB-AAA5-4880-0F31-9349;OEMNAME=;GUEST=true;GBRAND=;CORES=16;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=29-nov-2014 \
+	TS_OK SIGN="1BFC 1F28 5397 70F1 75B8 D08E DE3D 8E51 9C0A DE44 \
+	A72B E51F DC11 87FF 2F50 012C A97B 7C01 A3A0 ACC0 17F6 2506 \
+	AEE1 E999 F7CB 0A84 33D0 BA9F DCD0 5865"
+INCREMENT TableauServer tableau 2014.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__58a933c_15ca1491b88__1224;ActivationID=TSEB-AAA5-4880-0F31-9349;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=29-nov-2014 \
+	TS_OK SIGN="1A43 7827 A1B8 9A8D FE0F 04F1 51E3 75E1 E8BD 8D65 \
+	02B4 F12D 46AA 2D9C BD63 1B99 DE82 362D F6A9 ABB3 455C 544E \
+	E3E9 E80C 2FC9 A16C 8F61 8469 0863 85DA"
+--------------------------------------------------------------------
+Trust Flags: FULLY TRUSTED
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__58a933c_15ca1491b88__1222
+Entitlement ID: TSZO-410B-5C50-A025-8CE6
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;INTERACTOR=;VIEWER=;FulfillmentID=FID__58a933c_15ca1491b88__1222;ActivationID=TSZO-410B-5C50-A025-8CE6;OEMNAME=;GUEST=true;GBRAND=;CORES=16;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=2-dec-2016 \
+	TS_OK SIGN="0779 34E0 533D BF6E 0024 B1EE EAE3 BBD6 CABD 9084 \
+	30BC 0F41 319B A27B 2A66 16D1 1B3C A916 0943 D825 6E99 1ED7 \
+	49CA C402 80F5 710F 74CC E0FB 7580 B0E8"
+INCREMENT TableauServer tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__58a933c_15ca1491b88__1222;ActivationID=TSZO-410B-5C50-A025-8CE6;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=2-dec-2016 \
+	TS_OK SIGN="1C2E D0D8 D8AD C1DB 83E0 072E 14C1 C269 193C ADC4 \
+	1AEB BFAF 565C 2AEC 846E 0750 7B44 4DC4 C5F8 CB94 40EB A599 \
+	A386 621C 1ECA 0C2D 91F6 34CA 890C 31F5"
+--------------------------------------------------------------------
+Trust Flags: FULLY TRUSTED
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__58a933c_15ca1491b88__1221
+Entitlement ID: TSOL-353E-2210-6364-22CA
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2016.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;INTERACTOR=;VIEWER=;FulfillmentID=FID__58a933c_15ca1491b88__1221;ActivationID=TSOL-353E-2210-6364-22CA;OEMNAME=;GUEST=true;GBRAND=;CORES=16;SINGLE_MACHINE=false \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=12-nov-2015 \
+	TS_OK SIGN="162D 74A8 DF7B 56C4 BA49 BA54 5294 F5A0 79E3 FC4E \
+	2942 C576 13EC B358 07CD 02B1 5D75 361F 9B94 35F2 508D DBBB \
+	9D0D 96C3 38B9 C021 4048 ED19 7427 E6FF"
+INCREMENT TableauServer tableau 2016.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__58a933c_15ca1491b88__1221;ActivationID=TSOL-353E-2210-6364-22CA;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=12-nov-2015 \
+	TS_OK SIGN="1870 A108 6A8A CFA8 5A52 7E68 B42A 569E 9B71 F61C \
+	39BD 9398 754D 3F40 9C14 0E1A 991A BC0C 4603 361C ADC5 5B4C \
+	D3D4 3089 AE6E 3071 F6B9 7CCF 650E 87E6"
+--------------------------------------------------------------------
+Trust Flags: FULLY TRUSTED
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__58a933c_15ca1491b88__1220
+Entitlement ID: TSWS-965B-0380-9528-4421
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2015.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;INTERACTOR=;VIEWER=;FulfillmentID=FID__58a933c_15ca1491b88__1220;ActivationID=TSWS-965B-0380-9528-4421;OEMNAME=;GUEST=true;GBRAND=;CORES=16;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=12-nov-2015 \
+	TS_OK SIGN="179B 1508 C6DA DCB0 C21E 7B6C 45A0 05C2 1AAB 5368 \
+	AA6E A7A4 532A 2CE0 3975 02DA D446 A2E2 908A 1C29 BC69 C70F \
+	C6C8 E2A7 08E3 E91A 70D4 24DF 1D58 B4E5"
+INCREMENT TableauServer tableau 2015.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__58a933c_15ca1491b88__1220;ActivationID=TSWS-965B-0380-9528-4421;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=12-nov-2015 \
+	TS_OK SIGN="1629 3216 DC01 F47F 5597 77F6 8045 7F6E 1F05 A850 \
+	F014 FE02 7584 5EB1 F6B4 0EA5 04BC FF6C 9F04 C31A 2C2C BA79 \
+	95DD 15FD 108F EB5E 4F01 30A7 F544 93A7"
+--------------------------------------------------------------------
+Trust Flags: FULLY TRUSTED
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__58a933c_15ca1491b88__121f
+Entitlement ID: TSDF-B729-2560-651A-C5D9
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2015.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;INTERACTOR=;VIEWER=;FulfillmentID=FID__58a933c_15ca1491b88__121f;ActivationID=TSDF-B729-2560-651A-C5D9;OEMNAME=;GUEST=true;GBRAND=;CORES=16;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=12-nov-2015 \
+	TS_OK SIGN="118E 5FB5 F908 A8E5 0C44 F467 AF42 C41D 20BC 2873 \
+	D599 7B67 CFB6 AFB9 CB31 184F 015B DFFF 5219 23DA 3667 5D3A \
+	F670 F7C9 685B 6789 3A00 1433 63D3 57DA"
+INCREMENT TableauServer tableau 2015.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=1a98-728a-4e7d-e7ea-771e-3f36;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__58a933c_15ca1491b88__121f;ActivationID=TSDF-B729-2560-651A-C5D9;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=12-nov-2015 \
+	TS_OK SIGN="09C4 6CAD 9711 F93A 639D 0BA7 A5D5 68BB 1537 91C4 \
+	11FA CEC6 576E 8E52 F898 007C 7419 B921 041F 321D AC25 7D29 \
+	E599 509F 4735 8E69 76B9 EF4C 8BC2 3F2C"
+--------------------------------------------------------------------
+Trust Flags: FULLY TRUSTED
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__58a933c_15ca1491b88__1207
+Entitlement ID: TSBI-B668-D8F0-98B3-E9C2
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2015.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=606e-ccc9-99d9-b50e-e4a6-dc57;INTERACTOR=;VIEWER=;FulfillmentID=FID__58a933c_15ca1491b88__1207;ActivationID=TSBI-B668-D8F0-98B3-E9C2;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=7-feb-2015 \
+	TS_OK SIGN="1688 191D 0361 BE4B 5261 A790 BE74 4F17 0A29 977D \
+	CEAA 5ADB 0E02 4736 447D 142B B1AF EF44 6F3B 05FD C85B D24C \
+	DD84 647E 0C1C 30E8 5F53 4548 9537 0C2B"
+INCREMENT TableauServer tableau 2015.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=606e-ccc9-99d9-b50e-e4a6-dc57;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__58a933c_15ca1491b88__1207;ActivationID=TSBI-B668-D8F0-98B3-E9C2;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=7-feb-2015 \
+	TS_OK SIGN="136A E1BE 4BE5 8BAE 9769 798B B051 E501 DCAD 5772 \
+	4BF8 AFAA A30D A001 2060 0898 9578 055A D861 A287 EDD8 B4AB \
+	7EE0 A0D2 FD60 5A45 D78A A69D 1411 9C62"
+--------------------------------------------------------------------
+Trust Flags: FULLY TRUSTED
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__58a933c_15ca1491b88__1204
+Entitlement ID: TS2C-C04F-7940-59FE-19E1
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=606e-ccc9-99d9-b50e-e4a6-dc57;INTERACTOR=;VIEWER=;FulfillmentID=FID__58a933c_15ca1491b88__1204;ActivationID=TS2C-C04F-7940-59FE-19E1;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=5-dec-2016 \
+	TS_OK SIGN="0711 382A C4E2 8F0C 98A2 C54F BCC0 4A54 264B C146 \
+	F61D AD7C 66CF 86E5 835C 1C74 C94F 9F2E 416B 1B06 C07E B4CD \
+	32E2 34F6 4BAC CBCA DABF A122 6D93 1B15"
+INCREMENT TableauServer tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=606e-ccc9-99d9-b50e-e4a6-dc57;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__58a933c_15ca1491b88__1204;ActivationID=TS2C-C04F-7940-59FE-19E1;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=5-dec-2016 \
+	TS_OK SIGN="1858 8329 DB0F 7957 ED90 648A A798 AD99 937B 3D94 \
+	E585 8B0B 932F 89D1 4E8D 049A 0BB7 1EE4 641F 849C 1208 6253 \
+	28CC A217 FD33 D557 9D9A F2B2 698E AA6F"
+--------------------------------------------------------------------
+Trust Flags: FULLY TRUSTED
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__58a933c_15ca1491b88__1203
+Entitlement ID: TS57-C75A-4440-602C-CD17
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2016.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=606e-ccc9-99d9-b50e-e4a6-dc57;INTERACTOR=;VIEWER=;FulfillmentID=FID__58a933c_15ca1491b88__1203;ActivationID=TS57-C75A-4440-602C-CD17;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE=false \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=12-nov-2015 \
+	TS_OK SIGN="0094 3D0C 970C 3DE6 F116 89E9 CF8E 88AC 8906 1801 \
+	55F8 C7FE E2ED 1734 6FEC 16E4 28AF D44F F915 211F 07A5 9B1E \
+	C837 271D 1E9B 705E C915 D2EE 33F5 5767"
+INCREMENT TableauServer tableau 2016.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=606e-ccc9-99d9-b50e-e4a6-dc57;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__58a933c_15ca1491b88__1203;ActivationID=TS57-C75A-4440-602C-CD17;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=12-nov-2015 \
+	TS_OK SIGN="1503 5491 717E 377E CB4D F216 4D82 A714 9097 EBFD \
+	EA32 666A C880 E484 179F 02A5 348A C4ED 45D0 CBEA 6800 7600 \
+	C7AF BAC6 E320 AA61 ABF9 6A17 CDF2 7EA2"
+--------------------------------------------------------------------
+Trust Flags: FULLY TRUSTED
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__58a933c_15ca1491b88__1201
+Entitlement ID: TSKO-42B6-8A80-F9F9-FC1E
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2012.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;INTERACTOR=;VIEWER=;FulfillmentID=FID__58a933c_15ca1491b88__1201;ActivationID=TSKO-42B6-8A80-F9F9-FC1E;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 NOTICE="Exxon \
+	Core License" START=27-feb-2012 TS_OK SIGN="1077 2828 65B4 \
+	BE04 EA85 6AFB BA80 DC56 2B38 E770 842C 4BA5 79C3 89BB B038 \
+	1A60 15A5 AC51 4486 B811 93B0 AFEF 8FAB 3E4B 68CB 2159 466F \
+	4433 6078 AFB2"
+INCREMENT TableauServer tableau 2012.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;EDITION=Standard;CAP=REG:SHORT,WARN:14;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__58a933c_15ca1491b88__1201;ActivationID=TSKO-42B6-8A80-F9F9-FC1E;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 NOTICE="Exxon \
+	Core License" START=27-feb-2012 TS_OK SIGN="183B BE8C 7C4D \
+	3795 DE2D F14B AC65 5CCA 259D 9B66 2E37 C597 2710 0EE5 5AA5 \
+	1BD1 73B7 40FC 2560 788A 9AEE 872E 1B5F 1FB9 0F93 EE19 4D3B \
+	10F8 D6F7 E859"
+--------------------------------------------------------------------
+Trust Flags: FULLY TRUSTED
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__58a933c_15ca1491b88__11fe
+Entitlement ID: TS5B-4340-9CD0-BC13-9AC6
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2014.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;INTERACTOR=;VIEWER=;FulfillmentID=FID__58a933c_15ca1491b88__11fe;ActivationID=TS5B-4340-9CD0-BC13-9AC6;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=13-dec-2013 \
+	TS_OK SIGN="1045 3C03 19AD 7057 F2F7 DF97 06A5 DA7A 1173 5470 \
+	8EF5 DA0E D938 D119 2A58 045B D92F 63E1 7057 59A8 CDDF 2061 \
+	5497 F846 AE4B 1584 A0D8 197C 380E 0463"
+INCREMENT TableauServer tableau 2014.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__58a933c_15ca1491b88__11fe;ActivationID=TS5B-4340-9CD0-BC13-9AC6;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=13-dec-2013 \
+	TS_OK SIGN="010F 0A65 6652 EDD6 4E38 CE9E 6C9F E818 6430 2711 \
+	BBE0 DD27 0F2B 29E7 7CE3 199B E1D1 969B 9003 18EC 8860 8F45 \
+	5132 530E D4A4 7B85 0A8B 8A5F A2DB 0E7B"
+--------------------------------------------------------------------
+Trust Flags: FULLY TRUSTED
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__58a933c_15ca1491b88__11fd
+Entitlement ID: TSQ7-8B74-8860-CE04-5352
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2015.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;INTERACTOR=;VIEWER=;FulfillmentID=FID__58a933c_15ca1491b88__11fd;ActivationID=TSQ7-8B74-8860-CE04-5352;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=15-nov-2014 \
+	TS_OK SIGN="1661 FE26 9257 D2CB 6F7D 5A83 7746 9EEB BF5A DD0E \
+	3C1F AFEC CC76 640E 3DC9 1C84 AA74 A553 A378 57C5 AFEB B3BC \
+	84D5 05AD 6538 EFC7 3E12 8FDB ED66 236D"
+INCREMENT TableauServer tableau 2015.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__58a933c_15ca1491b88__11fd;ActivationID=TSQ7-8B74-8860-CE04-5352;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=15-nov-2014 \
+	TS_OK SIGN="17A8 6D68 027C AAB8 FD14 D9EE 0602 BE6B 9F13 7CB9 \
+	05A3 0157 24A3 4682 237A 1A30 71C2 EB0C E5B5 B2B5 A79B 0361 \
+	D0D2 AE15 A6AC AACD 682A 9987 F1AC EB0C"
+--------------------------------------------------------------------
+Trust Flags: FULLY TRUSTED
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__58a933c_15ca1491b88__11fc
+Entitlement ID: TSDD-C02B-C4A0-043E-16AE
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;INTERACTOR=;VIEWER=;FulfillmentID=FID__58a933c_15ca1491b88__11fc;ActivationID=TSDD-C02B-C4A0-043E-16AE;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=2-dec-2016 \
+	TS_OK SIGN="1C87 25EE 5E6A CCD0 3849 ADFE C0D8 5C6A B5B0 5EA8 \
+	0787 E12D E9C8 5A6A DA69 1115 834E 2301 5275 02C0 23B7 1BAF \
+	1AB7 FFDC 2F11 1C82 5C8A 6361 2128 B50A"
+INCREMENT TableauServer tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__58a933c_15ca1491b88__11fc;ActivationID=TSDD-C02B-C4A0-043E-16AE;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=2-dec-2016 \
+	TS_OK SIGN="0C81 0DD3 D216 135C BAF2 0E90 A4C2 70E3 C17C 8715 \
+	9301 FB7F AC0E 461A 4ECF 1699 DC1E ADAF 8119 B282 07E4 9E39 \
+	3E99 21D3 B184 6085 7E1F C392 0BBF 2C32"
+--------------------------------------------------------------------
+Trust Flags: FULLY TRUSTED
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__58a933c_15ca1491b88__11fb
+Entitlement ID: TSCS-8FAE-8760-B9CA-83E2
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2016.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;INTERACTOR=;VIEWER=;FulfillmentID=FID__58a933c_15ca1491b88__11fb;ActivationID=TSCS-8FAE-8760-B9CA-83E2;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE=false \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=12-nov-2015 \
+	TS_OK SIGN="1948 191F 0D3F 4642 1EC0 BFF6 FCCB 7895 7CA3 F97F \
+	1745 8A68 6984 76A9 8344 0973 B033 8173 CF1F 15C2 6EAA 51B4 \
+	5BD5 080A 1032 C24F C544 B913 D2EE 7150"
+INCREMENT TableauServer tableau 2016.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=91ad-a661-335b-e904-4853-a2;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__58a933c_15ca1491b88__11fb;ActivationID=TSCS-8FAE-8760-B9CA-83E2;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=12-nov-2015 \
+	TS_OK SIGN="0116 D04C 94AE F42F 1F6F 3EEA 3190 9433 ABD6 EBCA \
+	65DA 3641 B6C1 05FE C292 0070 433E B99E 52D9 86C4 B768 E95E \
+	9433 EEED 4F94 5264 8831 8F65 4D40 E62F"
+--------------------------------------------------------------------
+Trust Flags: FULLY TRUSTED
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__58a933c_15ca1491b88__11f4
+Entitlement ID: TSG8-5DC6-C5E0-3CA3-A94D
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2016.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=9f00-08be-24aa-8e7d-c88e-c204;INTERACTOR=;VIEWER=;FulfillmentID=FID__58a933c_15ca1491b88__11f4;ActivationID=TSG8-5DC6-C5E0-3CA3-A94D;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE=false \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=12-nov-2015 \
+	TS_OK SIGN="10AC DD9E 1903 A128 4FBB FA00 0F72 31D2 6FA1 6FE6 \
+	E355 B9FB 1459 6BBC 9EF0 0EFC C6F2 5003 8B6E FA40 09B1 E144 \
+	5CEA 450F 42C7 C1CD 10C9 8051 020F D113"
+INCREMENT TableauServer tableau 2016.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=9f00-08be-24aa-8e7d-c88e-c204;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__58a933c_15ca1491b88__11f4;ActivationID=TSG8-5DC6-C5E0-3CA3-A94D;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=12-nov-2015 \
+	TS_OK SIGN="05D5 F553 51C6 F252 2C3A E43A 64BF 5863 8D35 D132 \
+	C106 E7B6 30C8 F206 7477 12DC 720F 0C59 C74D 8A50 6487 547D \
+	F9EA BBFF BA86 5904 7F15 79F5 52DE 662C"
+--------------------------------------------------------------------
+Trust Flags: FULLY TRUSTED
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__58a933c_15ca1491b88__11f3
+Entitlement ID: TS1Y-C018-B1D0-017E-8BC7
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=9f00-08be-24aa-8e7d-c88e-c204;INTERACTOR=;VIEWER=;FulfillmentID=FID__58a933c_15ca1491b88__11f3;ActivationID=TS1Y-C018-B1D0-017E-8BC7;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=2-dec-2016 \
+	TS_OK SIGN="0286 606B 21A7 820B 7213 5189 61B4 99FE 9582 0E7D \
+	C787 BD0B 4EA3 8D99 4F43 110B 41E7 5ABD 50DD D3CF A8E7 1044 \
+	7BD8 8391 2B71 FE21 FE78 D0F2 C707 0437"
+INCREMENT TableauServer tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=9f00-08be-24aa-8e7d-c88e-c204;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__58a933c_15ca1491b88__11f3;ActivationID=TS1Y-C018-B1D0-017E-8BC7;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=2-dec-2016 \
+	TS_OK SIGN="0519 4CD0 2B64 D37B 072E A366 688E 345B 2A52 A218 \
+	27B1 3583 C4B8 1C56 E5FE 1C69 9C49 FEDD 839D 6108 A22B 1DEC \
+	3AD3 7726 7D6E D536 2895 4122 76C2 51A0"
+--------------------------------------------------------------------
+Trust Flags: FULLY TRUSTED
+Fulfillment Type: PUBLISHER ACTIVATION
+Status: ENABLED
+Fulfillment ID: FID__58a933c_15ca1491b88__11f0
+Entitlement ID: TSS7-0BA7-E870-D473-A540
+Product ID: NAME=Tableau Server;VERSION=4.0
+Suite ID: NONE
+Expiration date: permanent
+Concurrent: 0
+Concurrent overdraft:0
+Hybrid: 1
+Hybrid overdraft: 0
+Activatable: 0
+Activatable overdraft: 0
+Repairs: 0
+Feature line(s):
+INCREMENT TableauServerCapacity tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=846c-9c43-3ad6-8603-aa70-fadb;INTERACTOR=;VIEWER=;FulfillmentID=FID__58a933c_15ca1491b88__11f0;ActivationID=TSS7-0BA7-E870-D473-A540;OEMNAME=;GUEST=true;GBRAND=;CORES=8;SINGLE_MACHINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=2-nov-2016 \
+	TS_OK SIGN="1485 5069 C1D6 57DF 5A7B 6C62 8FC5 A5C4 9800 5EB0 \
+	6125 852E 779D F7AE 3421 1A0F 1242 1965 B47F 09E1 B260 1FCD \
+	ED0B 3FAA 965D 6234 4344 72D6 DCA9 C2B3"
+INCREMENT TableauServer tableau 2017.1231 permanent 1 \
+	VENDOR_STRING=EntitlementID=846c-9c43-3ad6-8603-aa70-fadb;EDITION=Standard;CAP=REG:SHORT;DC_STD=default;DC_CAP=;MAX_USERS=;TRIALVER=;FulfillmentID=FID__58a933c_15ca1491b88__11f0;ActivationID=TSS7-0BA7-E870-D473-A540;OEMNAME=;MAP_STD=default;MAP_CAP=;OFFLINE= \
+	ISSUER="Tableau Software" ISSUED=19-jun-2017 START=2-nov-2016 \
+	TS_OK SIGN="1BED 3F5B E7E1 FA51 162A 7D70 5627 A74F E52C 7A04 \
+	29EE 06FC CC50 5255 EA2E 0B4C 4D6D 5B55 5EEB 7B61 4447 072E \
+	C59E 9515 6B55 2044 CC6A 8FAA 4EBB 05BB"
+--------------------------------------------------------------------
