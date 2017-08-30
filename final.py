@@ -16,10 +16,7 @@ import sys
 
 first_arg = sys.argv[1]
 second_arg = sys.argv[2]
-
-#infile = r'C:\LicResults.txt'
 infile = first_arg
-
 fid = []
 hosts = []
 keep_fid = ['Fulfillment ID']
@@ -41,8 +38,6 @@ def parsefile():
             if value in line:
                 lines = line.replace('Fulfillment ID: ', '')
                 fid.append(lines.rstrip())
-                #return fid
-                break
 
 # Strips out "Trust Flags:" from each matching entry and appends to the flags list
     for line in f:
@@ -50,8 +45,6 @@ def parsefile():
             if value in line:
                 lines = line.replace('Trust Flags: ', '')
                 hosts.append(lines.rstrip())
-                #return hosts
-                break
 
 # The lencomp function compares the length of the fid and hosts list to make sure they match
 def lencomp():
